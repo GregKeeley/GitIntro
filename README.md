@@ -1,4 +1,4 @@
-### GitIntro
+# GitIntro
 
 ## Learning to Initialize the GitHub Repo, local Repo and pushing 
 
